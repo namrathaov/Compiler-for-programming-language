@@ -1,0 +1,23 @@
+NUM a
+NUM b
+NUM c
+SET a,6
+SET b,3
+NUM ifTemp0
+SET ifTemp0,a
+GT ifTemp0,b
+BOOL ifTemp1
+SET ifTemp1,true
+EQ ifTemp1,ifTemp0
+IF ifTemp1
+NUM temp3
+SET temp3,b
+MUL temp3,a
+NUM temp4
+SET temp4,a
+ADD temp4,temp3
+SET c,temp4
+OUT c
+ELSE
+OUT a
+ENDIF

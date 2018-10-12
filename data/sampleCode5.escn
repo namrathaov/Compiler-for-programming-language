@@ -1,0 +1,14 @@
+start
+int a;
+int b;
+int c;
+a=6;
+b=3;
+if a>b==true
+then
+c = a+b*a;
+print(c);
+else
+print(a);
+endif
+stop

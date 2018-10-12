@@ -1,0 +1,10 @@
+NUM a
+NUM b
+NUM c
+SET a,5
+SET b,10
+NUM temp0
+SET temp0,a
+ADD temp0,b
+SET c,temp0
+OUT c

@@ -1,0 +1,11 @@
+start
+int a;
+int b;
+a=6;
+b=3;
+while a>b
+do
+a = a-1;
+print(a);
+endwhile
+stop

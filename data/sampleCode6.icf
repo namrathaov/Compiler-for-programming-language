@@ -1,0 +1,11 @@
+NUM a
+NUM b
+SET a,6
+SET b,3
+ALA GT a,b
+NUM temp0
+SET temp0,a
+SUB temp0,1
+SET a,temp0
+OUT a
+GOBACK

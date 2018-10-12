@@ -1,0 +1,13 @@
+start
+int a;
+int b;
+int c;
+int d;
+int e;
+a=6;
+b=3;
+c=7;
+d=2;
+e=a*b+c/d-b;
+print(e);
+stop

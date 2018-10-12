@@ -1,0 +1,10 @@
+NUM a
+NUM b
+SET a,6
+SET b,3
+NUM ifTemp0
+SET ifTemp0,a
+GT ifTemp0,b
+IF ifTemp0
+OUT a
+ENDIF

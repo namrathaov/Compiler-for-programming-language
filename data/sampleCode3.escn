@@ -1,0 +1,10 @@
+start
+int a;
+int b;
+a=6;
+b=3;
+if a>b
+then
+print(a);
+endif
+stop

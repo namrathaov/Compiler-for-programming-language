@@ -1,0 +1,36 @@
+Milestone 2 Work Progress:
+
+Tasks worked upon till 04/03:
+  Writing grammar for ESCN language (Namratha & Rhythm)
+  Researching on environment needed, the tools to be used for the language (Namratha & Shreyas)
+  Research, understand and share the knowledge for the compiler and interpreter working pipeline with respect to
+  ESCN language. (Rachana & Rhythm)
+  Deciding on intermediate code file generation (Rachana & Shreyas)
+
+Tasks worked upon till 04/06:
+  Using ANTLR and generating parse tree.(Rhythm & Rachana) 
+  Preparing the design document.(Shreyas & Namratha)
+  Verifying the grammar and intermediate code.(Rachana & Shreyas)
+  Designing the syntax of intermediate code and writing sample codes(Namratha & Rhythm)
+
+Tasks worked on for Milestone 3(till 4/28)
+
+Compiler side:
+Writing escn listener for antlr output to generate icf file.(Shreyas & Rhythm)
+Implementing logic for While construct. (Rhythm)
+Implementing logic for Decision constructs. (Shreyas)
+Implementing logic for Print statements (Shreyas)
+Implementing logic for Arithmetic operators.(Shreyas)
+Implementing logic for Assignment operators.(Rhythm)
+Implementing logic for Logical operators.(Rhythm)
+
+Runtime side:
+Handling execution of icf in runtime (Namratha & Rachana)
+Parsing icf file and handling invalid cases (Rachana)
+Implementing logic for While construct. (Namratha)
+Implementing logic for Decision constructs. (Rachana)
+Implementing logic for Arithmetic operators.(Rachana)
+Implementing logic for Assignment operators.(Namratha)
+Implementing logic for Logical operators.(Namratha)
+
+
